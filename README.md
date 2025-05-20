@@ -2,6 +2,8 @@
 
 This project uses Natural Language Processing (NLP) and a PassiveAggressiveClassifier to detect whether a news article is **FAKE** or **REAL**. The model is trained on a labeled dataset and is deployed using **Streamlit** for real-time predictions.
 
+Dataset Link: https://www.kaggle.com/datasets/clmentbisaillon/fake-and-real-news-dataset?resource=download
+
 ---
 
 ## 📌 Table of Contents
