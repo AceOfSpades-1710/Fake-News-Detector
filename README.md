@@ -4,12 +4,6 @@ This project uses Natural Language Processing (NLP) and a PassiveAggressiveClass
 
 ---
 
-## 🚀 Demo
-
-🔗 [Live Demo on Streamlit (optional link)](https://share.streamlit.io/yourusername/fake-news-detector)
-
----
-
 ## 📌 Table of Contents
 - [Overview](#-overview)
 - [Tech Stack](#-tech-stack)
@@ -18,7 +12,6 @@ This project uses Natural Language Processing (NLP) and a PassiveAggressiveClass
 - [Model Performance](#-model-performance)
 - [Screenshots](#-screenshots)
 - [Future Improvements](#-future-improvements)
-- [License](#-license)
 
 ---
 
@@ -65,3 +58,21 @@ The goal of this project is to detect fake news from text using machine learning
 ```bash
 git clone https://github.com/AceOfSpades-1710/Fake-News-Detector.git
 cd Fake-News-Detector
+```
+
+---
+
+## 📈 Model Performance
+
+| Metric           | Value                             |
+|------------------|-----------------------------------|
+| Accuracy         | ~93%                              |
+| Classifier       | PassiveAggressiveClassifier       |
+| Vectorizer       | TF-IDF                            |
+
+---
+
+## 🖼 Screenshots
+
+![Screen Shot 2025-05-21 at 2 41 06 AM](https://github.com/user-attachments/assets/a3ac9928-0f6f-485b-a3a6-1e09a108693c)
+
